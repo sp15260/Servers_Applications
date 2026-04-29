@@ -1,2 +1,2 @@
-# Servers_Applications
+# Static Website
 Lion
